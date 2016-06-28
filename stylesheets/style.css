@@ -1,5 +1,5 @@
 /**********通用**********/
-*{margin: 0;padding: 0;font: 12px "Hiragino Sans GB";color: #fff;}
+*{margin: 0;padding: 0;font: 12px "Hiragino Sans GB","Microsoft YaHei";color: #fff;}
 ul{list-style: none;}
 a{text-decoration: none;}
 /***********wrap*****************/
@@ -41,6 +41,7 @@ width: 100%;
 bottom: 135px;
 text-align: left;
 text-indent: 2em;
+color:#e6e6e6;
 }
 /***********aside部分结束***********/
 /**********main部分开始**************/
